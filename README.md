@@ -55,11 +55,7 @@
 
 ## Connect with me:
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/md-irfan-6a9692208/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/virtualgyans/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/c/virtualgyans"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
+<a href = "https://www.linkedin.com/in/rohitkumar-chaudhari-0160b9119"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
 ## ❤ Views and Followers
