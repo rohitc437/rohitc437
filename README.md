@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://rohitkumarportfolio.netlify.app/#about)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://rohitkumar-chaudhari-portfolio.netlify.app/)**
 
 - 📫 How to reach me **rohitc437@gmail.com**
 
